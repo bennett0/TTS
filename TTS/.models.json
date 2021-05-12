@@ -58,6 +58,16 @@
                     "license": "",
                     "contact":""
 
+                },
+                "sc-glow-tts-buk": {
+                    "description": "Multi-Speaker Transformers based SC-Glow model from https://arxiv.org/abs/2104.05557. (customized)",
+                    "github_rls_url": "https://github.com/bennett0/TTS/releases/download/v0-test0/tts_models--en--vctk--sc-glowtts-transformer-buk.zip",
+                    "default_vocoder": null,
+                    "commit": "d03aa360",
+                    "author": "Bennet Uk",
+                    "license": "",
+                    "contact":""
+
                 }
             },
             "sam":{
